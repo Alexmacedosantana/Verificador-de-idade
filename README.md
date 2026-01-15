@@ -31,7 +31,7 @@ JavaScript (ES6)
 
 Git & GitHub Pages
 
-🌐 Projeto Online
+🌐 Projeto Online :https://alexmacedosantana.github.io/Verificador-de-idade/
 
 🔗 Acesse o projeto em funcionamento:
 
